@@ -37,6 +37,7 @@ A curated list of modern and up-to-date free resources for learning C++. Whether
 - [cppreference.com](https://en.cppreference.com/)
 - [Stack Overflow C++ Tag](https://stackoverflow.com/questions/tagged/c%2B%2B)
 - [Reddit /r/cpp](https://www.reddit.com/r/cpp/)
+- [CodeAcedmy](https://www.codecademy.com/learn/learn-c-plus-plus)
 
 ## YouTube Channels
 
