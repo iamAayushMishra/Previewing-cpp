@@ -16,6 +16,12 @@ int main(){
         cout << i << endl;
     }
 
+    //size of aray in bytes
+    cout << sizeof(statesOfIndia)<< endl;
+
+    //to find size of array divide by size of data type
+    cout << sizeof(statesOfIndia) / sizeof(string) << endl;
+
     return 0;
 
 }
